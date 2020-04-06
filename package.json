@@ -1,0 +1,28 @@
+{
+	"name": "portfolio",
+	"version": "1.0.0",
+	"description": "Aron Tolentino's web development portfolio",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start",
+		"export": "next export"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/arontolentino/portfolio.git"
+	},
+	"author": "Aron Tolentino",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/arontolentino/portfolio/issues"
+	},
+	"homepage": "https://github.com/arontolentino/portfolio#readme",
+	"dependencies": {
+		"next": "^9.3.4",
+		"next-seo": "^4.4.0",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1"
+	}
+}
